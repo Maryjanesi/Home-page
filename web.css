@@ -1,0 +1,81 @@
+body {
+    background-image: radial-gradient(circle 610px at 5.2% 51.6%,
+            rgba(5, 8, 114, 1) 0%, rgba(7, 3, 53, 1) 97.5%);
+}
+
+.container {
+    margin-left: 4rem;
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.rectangle1 {
+    height: 7rem;
+    width: 30rem;
+    background: rgb(8, 8, 41);
+}
+
+.rectangle2 {
+    height: 6rem;
+    width: 30rem;
+    background: rgb(231, 231, 235);
+    padding-top: 2rem;
+}
+
+.rectangle3 {
+    height: 6rem;
+    width: 30rem;
+    background: rgb(231, 231, 235);
+    padding-top: 2rem;
+    margin-top: 0.5rem;
+}
+
+.rectangle4 {
+    height: 6rem;
+    width: 30rem;
+    background: rgb(68, 178, 211);
+    padding-top: 2rem;
+    margin-top: 0.5rem;
+}
+
+.image {
+    display: flex;
+    margin-right: 15rem;
+    margin-top: 5rem;
+    margin-bottom: 10rem;
+    width: 336px;
+    height: 342px;
+}
+
+.text1 {
+    font-size: 4.5rem;
+    font-weight: bold;
+    color: rgb(68, 178, 211);
+    margin-left: 2rem;
+}
+
+.text2 {
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-left: 3rem;
+}
+
+.text3 {
+    margin-left: 3rem;
+    text-align: center;
+    gap: 2rem;
+    font-size: 1.5rem;
+
+}
+
+.logo {
+    margin-left: 10rem;
+    margin-bottom: 3rem;
+}
+
+.social {
+    display: flex;
+    margin-top: 2rem;
+}
